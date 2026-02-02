@@ -1,0 +1,43 @@
+## [ Archivos de compilación y salida ]
+bin/
+obj/
+publish/
+
+## [ Herramientas de .NET ]
+.dotnet/
+*.swp
+*.*~
+
+## [ Visual Studio ]
+.vs/
+*.user
+*.useros
+*.sln.docstates
+
+## [ VS Code ]
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## [ User-specific files ]
+*.suo
+*.user
+*.useros
+*.sln.docstates
+
+## [ Paquetes NuGet ]
+*.nupkg
+# No ignorar el archivo de lock si usas esa característica
+# project.assets.json
+# packages/
+
+## [ Archivos del SO ]
+.DS_Store
+Thumbs.db
+
+## [ Secretos y Configuración Local ]
+appsettings.Development.json
+secrets.json
+.env

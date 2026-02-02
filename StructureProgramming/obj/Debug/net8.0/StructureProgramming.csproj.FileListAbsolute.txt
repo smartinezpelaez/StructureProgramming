@@ -1,0 +1,14 @@
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.exe
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.deps.json
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.runtimeconfig.json
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.dll
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.pdb
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.AssemblyInfoInputs.cache
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.AssemblyInfo.cs
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.csproj.CoreCompileInputs.cache
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.dll
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\refint\StructureProgramming.dll
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.pdb
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.genruntimeconfig.cache
+C:\Users\smartpel\source\repos\CleanArchitecture\StructureProgramming\obj\Debug\net8.0\ref\StructureProgramming.dll

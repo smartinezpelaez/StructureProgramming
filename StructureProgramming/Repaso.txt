@@ -1,0 +1,93 @@
+﻿//Variables
+
+var number = 1;
+var number1 = 1.556f;
+var number2 = 1.54789654;
+var nombre = "Steven";
+var caracter = 's';
+
+var numbers = new int[5];
+numbers[0] = 1;
+numbers[1] = 2;
+numbers[2] = 3;
+numbers[3] = 4;
+numbers[4] = 5;
+
+var numbers2 = new int[5] {
+    1,2, 3, 4,5
+};
+Console.WriteLine(numbers2[2]);
+
+var age = -18;
+if (age >= 18)
+{
+    Console.WriteLine("Mayor de edad");
+}
+else
+{
+    Console.WriteLine("Menor de edad");
+}
+
+switch (age)
+{
+    case > 0 and  < 18:
+        Console.WriteLine("Menor de edad");
+        break;
+    case > 18:
+        Console.WriteLine("Mayor de edad");
+        break;
+    default:
+        Console.WriteLine("No existe la edad");
+        break ;
+}
+
+var names = new string[3]
+{
+    "Steven", "Vane", "Vale"
+};
+
+int i = 0;
+do
+{
+    Console.WriteLine(names[i]);
+    i = i + 1;
+}while (i < names.Length);
+
+int y = 0;
+while (y <names.Length)
+{
+    Console.WriteLine(names[y]);
+    y = y + 1;
+}
+
+for (int n = 0; n < names.Length; n++)
+{
+    Console.WriteLine(names[n]);
+}
+
+foreach (var name in names)
+{
+    Console.WriteLine(name);
+}
+
+int Area(int s)
+{
+    int res = s * s;
+    return res;
+}
+
+var resulArea = Area(10);
+Console.WriteLine(resulArea);
+
+void Message(string msg)
+{
+    Console.WriteLine(msg);
+}
+
+Message("Retonar mensaje sin necesidad del return");
+
+void Bye()
+{
+    Message("Adios");
+}
+Bye();
